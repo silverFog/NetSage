@@ -1,0 +1,10 @@
+body{
+  background-color: #303030;
+  color: #FFB000;
+}
+.header{
+  height: 50px;
+  text-align: center;
+  background-image: url('../media/binary.jpeg');
+  color: limegreen;
+}
